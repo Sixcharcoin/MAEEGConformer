@@ -1,5 +1,6 @@
 All files are summarised / refactored using LLMs.   
 Some comments are my own, some comments are made by LLMs to enhance readability.   
+Refer to maeegconformer_original.py for the original entire code.
 --------------------------------------------------------------------------------   
 
 # MAEEGConformer: EEG-based Image Category Classification
